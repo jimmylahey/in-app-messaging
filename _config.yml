@@ -1,4 +1,5 @@
 theme: jekyll-theme-cayman
+title:  
 description: a brief guide for app developers
 github:
   is_project_page: false
