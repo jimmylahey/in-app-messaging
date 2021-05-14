@@ -1,5 +1,6 @@
 ---
 canonical_url: https://inappmessaging.com/?works
+title: holymoly
 ---
 
 ## What is in-app messaging?
