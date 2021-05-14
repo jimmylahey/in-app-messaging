@@ -1,3 +1,7 @@
+---
+title: In-App Messaging
+---
+
 ## What is in-app messaging?
 
 In-app messaging is used within mobile and desktop applications to engage with the user and/or otherwise provide information to enhance their experience in real-time.
