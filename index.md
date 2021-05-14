@@ -1,3 +1,4 @@
+canonical_url: https://inappmessaging.com/?works
 
 ## What is in-app messaging?
 
