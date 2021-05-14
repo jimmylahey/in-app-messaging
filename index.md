@@ -1,5 +1,5 @@
 ---
-canonical_url: https://inappmessaging.com/?works
+canonical_url: https://inappmessaging.com/
 title: In-App Messaging 101
 ---
 
