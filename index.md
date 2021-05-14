@@ -1,8 +1,3 @@
----
-canonical_url: https://inappmessaging.com/
-title: In-App Messaging 101
----
-
 ## What is in-app messaging?
 
 In-app messaging is used within mobile and desktop applications to engage with the user and/or otherwise provide information to enhance their experience in real-time.
