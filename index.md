@@ -1,4 +1,4 @@
 
 ## What is in-app messaging?
 
-In-app messages are notifications that are sent to users of an application within the application itself. In-app messages are often used to offer support, reminders, and automated feedback to the user of the app at the perfect time.
+In-app messaging is used within mobile and desktop applications to engage with the user and/or otherwise provide information to enhance their experience in real-time. In-app messages / notifications are often used to offer support, reminders, marketing materials, and automated feedback to users while they are actively using your app.
